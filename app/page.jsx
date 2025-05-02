@@ -46,16 +46,16 @@ export default function Home() {
           <p className="text-muted-foreground">Industries Covered</p>
         </div>
         <div className="flex flex-col items-center justify-center space-y-2">
-          <h3 className="text-4xl font-bold">50+</h3>
-          <p className="text-muted-foreground">Industries Covered</p>
+          <h3 className="text-4xl font-bold">95%</h3>
+          <p className="text-muted-foreground">Success Rate</p>
         </div>
         <div className="flex flex-col items-center justify-center space-y-2">
-          <h3 className="text-4xl font-bold">50+</h3>
-          <p className="text-muted-foreground">Industries Covered</p>
+          <h3 className="text-4xl font-bold">1000+</h3>
+          <p className="text-muted-foreground">Active Users</p>
         </div>
         <div className="flex flex-col items-center justify-center space-y-2">
-          <h3 className="text-4xl font-bold">50+</h3>
-          <p className="text-muted-foreground">Industries Covered</p>
+          <h3 className="text-4xl font-bold">24x7</h3>
+          <p className="text-muted-foreground">AI Support</p>
         </div>
         </div>
       </div>
