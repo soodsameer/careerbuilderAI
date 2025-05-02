@@ -5,13 +5,13 @@
   "framework": "nextjs",
   "regions": ["iad1"],
   "env": {
-    "NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY": "@next_public_clerk_publishable_key",
-    "CLERK_SECRET_KEY": "@clerk_secret_key",
+    "NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_c21hcnQtc2t1bmstNi5jbGVyay5hY2NvdW50cy5kZXYk",
+    "CLERK_SECRET_KEY": "sk_test_cerUZfXmM7jMX1PtXs1Tneg0tOpJJAX6I2odcCAr8q",
     "DATABASE_URL": "@database_url",
     "GEMINI_API_KEY": "@GEMINI_API_KEY",
-    "NEXT_PUBLIC_CLERK_SIGN_IN_URL": "@next_public_clerk_sign_in_url",
-    "NEXT_PUBLIC_CLERK_SIGN_UP_URL": "@next_public_clerk_sign_up_url",
-    "NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL": "@next_public_clerk_after_sign_in_url",
-    "NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL": "@next_public_clerk_after_sign_up_url"
+    "NEXT_PUBLIC_CLERK_SIGN_IN_URL": "/sign-in",
+    "NEXT_PUBLIC_CLERK_SIGN_UP_URL": "/sign-up",
+    "NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL": "/dashboard",
+    "NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL": "/dashboard"
   }
 } 
