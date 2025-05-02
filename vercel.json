@@ -4,7 +4,7 @@
   "installCommand": "npm install",
   "framework": "nextjs",
   "regions": ["iad1"],
-  "env": {
+  "env": { 
     "NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_c21hcnQtc2t1bmstNi5jbGVyay5hY2NvdW50cy5kZXYk",
     "CLERK_SECRET_KEY": "sk_test_cerUZfXmM7jMX1PtXs1Tneg0tOpJJAX6I2odcCAr8q",
     "DATABASE_URL": "@database_url",
